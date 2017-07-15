@@ -43,4 +43,4 @@ disp = Adafruit_SSD1306.SSD1306_128_64(rst=RST, dc=DC, spi=SPI.SpiDev(SPI_PORT, 
 
 You need to uncomment your display configuration (and comment the bottom one out) and config your pin setup!
 
-If you need some pictures to test with here is my gif repo: [PJOG.de Gif Repo](https://gif.pjog.de)
+If you need some pictures to test with here is my gif repo: [My Free and Open Gif Repo](https://prinzjuliano.github.io/)
